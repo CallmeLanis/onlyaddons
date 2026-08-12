@@ -1,0 +1,9 @@
+{
+    "name": "battlefield1.gun.type38.name",
+    "tooltip":"battlefield1.gun.type38.desc",
+    "display": "battlefield1:type38_display",
+    "data": "battlefield1:type38_data",
+    "type": "sniper",
+    "item_type": "modern_kinetic",
+    "sort": 1
+}

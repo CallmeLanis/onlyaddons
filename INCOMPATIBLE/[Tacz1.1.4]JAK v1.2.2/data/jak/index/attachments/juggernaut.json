@@ -1,0 +1,7 @@
+{
+    "name":"jak.attachment.juggernaut.name",
+    "tooltip": "jak.attachment.juggernaut.desc",
+    "display": "jak:juggernaut_display",
+    "data": "jak:juggernaut_data",
+    "type": "extended_mag"
+  }

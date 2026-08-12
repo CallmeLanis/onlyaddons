@@ -1,0 +1,56 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.unknown",
+				"texture_width": 16,
+				"texture_height": 16,
+				"visible_bounds_width": 12,
+				"visible_bounds_height": 2.5,
+				"visible_bounds_offset": [0, 0.75, 0]
+			},
+			"bones": [
+				{
+					"name": "scope_body",
+					"pivot": [0, 2.7, 0]
+				},
+				{
+					"name": "ocular",
+					"pivot": [0, 5.7, 0],
+					"cubes": [
+						{
+							"origin": [-1.2, 4.6, -2],
+							"size": [2.4, 2.2, 0],
+							"uv": {
+								"south": {"uv": [0, 0], "uv_size": [7.75, 7.5]}
+							}
+						}
+					]
+				},
+				{
+					"name": "division",
+					"pivot": [0, 4.6, -98]
+				},
+				{
+					"name": "division_illuminated",
+					"parent": "division",
+					"pivot": [0, 4.1, -73],
+					"cubes": [
+						{
+							"origin": [-13.5, -7.2, -98],
+							"size": [27, 23.6, 0],
+							"uv": {
+								"south": {"uv": [8, 8], "uv_size": [8, 8]}
+							}
+						}
+					]
+				},
+				{
+					"name": "scope_view",
+					"pivot": [0, 6, 5]
+				}
+			]
+		}
+	]
+}

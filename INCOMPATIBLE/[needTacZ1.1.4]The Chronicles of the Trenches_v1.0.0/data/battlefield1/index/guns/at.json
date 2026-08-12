@@ -1,0 +1,7 @@
+{
+    "name": "battlefield1.gun.at.name",
+    "display": "battlefield1:at_display",
+    "data": "battlefield1:at_data",
+    "tooltip": "battlefield1.gun.at.desc",
+    "type": "rpg"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "jak.gun.static_hv.name",
+  "display": "jak:static_hv_display",
+  "data": "jak:static_hv_data",
+  "tooltip": "jak.gun.static_hv.desc",
+  "type": "smg",
+  "sort": 10
+}

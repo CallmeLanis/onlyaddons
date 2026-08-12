@@ -1,0 +1,11 @@
+{
+  // 配件的的显示名称和工具提示，支持本地化
+  "name": "jak.attachment.sight_sz_minitac_40.name",
+  "tooltip": "jak.attachment.slight_sz_minitac_40.desc",
+  // 配件的客户端数据
+  "display": "jak:sight_sz_minitac_40_display",
+  // 配件的属性
+  "data": "jak:sight_sz_minitac_40_data",
+  // 枪械配件槽位能从中选择可以安装的类型
+  "type": "scope"
+}

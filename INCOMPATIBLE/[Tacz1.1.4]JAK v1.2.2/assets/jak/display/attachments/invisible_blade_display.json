@@ -1,0 +1,10 @@
+{
+  "slot": "jak:attachment/slot/spear_blade",
+  "model": "jak:attachment/invisible_blade_geo",
+  "texture": "jak:attachment/uv/invisible_blade",
+  "show_muzzle": true,
+  "sounds": {
+    "install": "tacz:attachments/bayonet_install",
+    "uninstall": "tacz:attachments/bayonet_uninstall"
+  }
+}

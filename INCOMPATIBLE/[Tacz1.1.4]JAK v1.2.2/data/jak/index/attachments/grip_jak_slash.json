@@ -1,0 +1,7 @@
+{
+  "name": "jak.attachment.grip_jak_slash.name",
+  "tooltip": "jak.attachment.grip_jak_slash.desc",
+  "display": "jak:grip_jak_slash_display",
+  "data": "jak:grip_jak_slash_data",
+  "type": "grip"
+}

@@ -1,0 +1,33 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:iron_axe"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "item": "minecraft:shears"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "tag": "forge:nuggets/iron"
+      },
+      "count": 2
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/brick"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "jak:stock_no_stock"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

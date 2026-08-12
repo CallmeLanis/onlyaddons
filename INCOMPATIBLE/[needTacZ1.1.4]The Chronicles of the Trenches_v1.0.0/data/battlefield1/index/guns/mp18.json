@@ -1,0 +1,9 @@
+{
+    "name": "battlefield1.gun.mp18.name",
+    "display": "battlefield1:mp18_display",
+    "data": "battlefield1:mp18_data",
+    "tooltip": "battlefield1.gun.mp18.desc",
+    "type": "smg",
+    "item_type": "modern_kinetic",
+    "sort": 1
+}

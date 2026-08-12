@@ -1,0 +1,7 @@
+{
+    "name":"jak.attachment.jak_balrog.name",
+    "tooltip": "jak.attachment.jak_balrog.desc",
+    "display": "jak:jak_balrog_display",
+    "data": "jak:jak_balrog_data",
+    "type": "extended_mag"
+  }

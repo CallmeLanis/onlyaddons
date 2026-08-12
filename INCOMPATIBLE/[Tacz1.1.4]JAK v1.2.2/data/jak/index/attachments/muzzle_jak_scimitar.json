@@ -1,0 +1,7 @@
+{
+  "name": "jak.attachment.jak_scimitar.name",
+  "tooltip": "jak.attachment.jak_scimitar.desc",
+  "display": "jak:jak_scimitar_display",
+  "data": "jak:jak_scimitar_data",
+  "type": "muzzle"
+}

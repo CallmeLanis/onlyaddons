@@ -1,0 +1,7 @@
+{
+  "name": "jak.attachment.grip_paratrooper_rope.name",
+  "tooltip": "jak.attachment.grip_paratrooper_rope.desc",
+  "display": "jak:grip_paratrooper_rope_display",
+  "data": "jak:grip_paratrooper_rope_data",
+  "type": "grip"
+}

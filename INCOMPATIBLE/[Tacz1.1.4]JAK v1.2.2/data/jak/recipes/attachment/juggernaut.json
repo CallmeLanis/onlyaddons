@@ -1,0 +1,33 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:nether_stars"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "tag": "forge:storage_blocks/redstone"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "tag": "forge:storage_blocks/gold"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "tag": "forge:storage_blocks/iron"
+      },
+      "count": 8
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "jak:juggernaut"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

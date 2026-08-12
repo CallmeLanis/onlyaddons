@@ -1,0 +1,7 @@
+{
+  "name": "jak.attachment.muzzle_quartermaster.name",
+  "tooltip": "jak.attachment.muzzle_quartermaster.desc",
+  "display": "jak:muzzle_quartermaster_display",
+  "data": "jak:muzzle_quartermaster_data",
+  "type": "muzzle"
+}

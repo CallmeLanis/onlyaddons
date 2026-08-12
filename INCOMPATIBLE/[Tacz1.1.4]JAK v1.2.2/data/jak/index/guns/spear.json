@@ -1,0 +1,7 @@
+{
+  "name": "jak.gun.spear.name",
+  "display": "jak:spear_display",
+  "data": "jak:spear_data",
+  "tooltip": "jak.gun.spear.desc",
+  "type": "pistol"
+}

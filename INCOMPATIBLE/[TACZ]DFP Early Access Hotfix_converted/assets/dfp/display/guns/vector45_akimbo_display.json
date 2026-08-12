@@ -1,0 +1,51 @@
+{
+  "model": "dfp:gun/vector45_akimbo_geo",
+  "texture": "dfp:gun/uv/vector45_akimbo",
+  "lod": {
+    "model": "dfp:gun/lod/vector45_akimbo",
+    "texture": "dfp:gun/lod/vector45_akimbo"
+  },
+  "hud": "dfp:gun/hud/vector45_akimbo",
+  "slot": "dfp:gun/slot/vector45_akimbo",
+  "animation": "dfp:vector45_akimbo",
+  "use_default_animation": "rifle",
+  "third_person_animation": "default",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "tacz:flash/common_muzzle_flash",
+    "scale": 0
+  },
+  "shell": {
+    "initial_velocity": [5, 2, 1],
+    "random_velocity": [1, 1, 0.25],
+    "acceleration": [0.0, -10, 0.0],
+    "angular_velocity": [360, -1200, 90],
+    "living_time": 1.0
+  },
+  "sounds": {
+    "shoot": "dfp:vector45_akb/vector_fire",
+    "shoot_3p": "dfp:vector45_akb/vector_fire",
+    "silence": "dfp:vector45_akb/vector_fire_s",
+    "silence_3p": "dfp:vector45_akb/vector_fire_s",
+    "melee_push": "tacz:melee_stock/melee_stock_01",
+    "melee_stock": "tacz:melee_stock/melee_stock_02"
+  },
+  "offhand_show": {
+    "pos": [1, 19, 4],
+    "rotate": [0, 0, 50],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [-1, 19, 3],
+      "rotate": [-180, 0, 130],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

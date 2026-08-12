@@ -1,0 +1,120 @@
+{
+  "ammo": "jak:spear",
+  "rpm": 75,
+  "bullet": {
+    "life": 0.1,
+    "bullet_amount": 1,
+    "damage": 20,
+    "extra_damage": {
+      "armor_ignore": 1.4,
+      "head_shot_multiplier": 2.5,
+      "damage_adjust": [
+        {"distance": 10, "damage": 40},
+        {"distance": "infinite", "damage": 0}
+      ]
+    },
+    "speed": 43,
+    "gravity": 0,
+    "knockback": 0.5,
+    "friction": 0,
+    "ignite": false,
+    "pierce": 2
+  },
+  "ammo_amount": 50,
+  "extended_mag_ammo_amount": [
+    70,
+    100,
+    150
+  ],
+  "bolt": "open_bolt",
+  "reload": {
+    "type": "fuel",
+    "feed": {
+      "empty": 1,
+      "tactical": 1
+    },
+    "cooldown": {
+      "empty": 1.1,
+      "tactical": 1.1
+    }
+  },
+  "draw_time": 0.67,
+  "put_away_time": 0.58,
+  "aim_time": 0.1,
+  "sprint_time": 0.1,
+  "weight": 3.4,
+  "movement_speed": {
+    // 默认修正
+    "base": 0.0,
+    // 瞄准时
+    "aim": -0.05,
+    // 换弹时
+    "reload": -0.05
+  },
+  "crawl_recoil_multiplier": 0.5,
+  "fire_mode": [
+    "semi"
+  ],
+  "fire_mode_adjust": {"burst": {
+"damage": 0,
+"rpm": 0,
+"speed": 0,
+"knockback": 0,
+"armor_ignore": 0,
+"head_shot_multiplier": 0,
+"aim_inaccuracy": 0,
+"other_inaccuracy": 0
+}
+},
+"burst_data": {
+"continuous_shoot": true,
+"count": 3,
+"bpm": 900,
+"min_interval": 0.3
+},
+  "allow_attachment_types": [
+    "muzzle"
+  ],
+  "recoil": {
+    "pitch": [
+      {"time": 0, "value": [0, 0]},
+      {"time": 0.1, "value": [0, 0]}
+
+    ],
+    "yaw": [
+      {"time": 0, "value": [0, 0]},
+      {"time": 0.1, "value": [0, 0]}
+    ]
+  },
+  "inaccuracy": {
+    "stand": 0,
+    "move": 0,
+    "sneak": 0,
+    "lie": 0,
+    "aim": 0
+  },
+  // 近战相关
+  "melee": {
+    // 枪械距离参数，用来延升近战攻击范围
+    // 会与刺刀等配件的距离做加和
+    "distance": 3,
+    // 使用时的冷却时间
+    "cooldown": 0.46,
+    // 默认近战数据，会被配件的数据替换掉
+    "default": {
+      // 动画类型：没有枪托的为 melee_push，有枪托的为 melee_stock
+      "animation_type": "melee_push",
+      // 刺刀距离参数，枪械里还有个刺刀攻击距离参数，两者做加和
+      "distance": 0,
+      // 刺刀范围角度
+      "range_angle": 80,
+      "delay_damage_time": 0,
+      // 伤害值
+      "damage": 10,
+      // 击退效果
+      "knockback": 1,
+      // 前摇时长，单位：秒
+      "prep": 0.13
+    }
+  }
+}

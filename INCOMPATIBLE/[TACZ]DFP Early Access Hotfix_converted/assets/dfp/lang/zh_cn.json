@@ -1,0 +1,13 @@
+ {
+  "pack.dfp.name": "双倍火力",
+  "pack.dfp.desc": "我的朋友，你有两只用来拿武器的手！",
+
+  "dfp.gun.dfp_deagle_gold.name":"黄金双持沙鹰",
+  "dfp.gun.dfp_deagle_gold.desc": "小心！他能像撕开你的手腕韧带一样撕开任何东西。",
+  "dfp.gun.shield_vantvm_withgun.name":"§eFORT | Vant-VM 盾牌 与 OTS-33手枪",
+  "dfp.gun.shield_vantvm_withgun.desc":"掩护，推进",
+  "dfp.gun.aa12_akimbo.name": "§3AA12 '决斗者' 双持突击霰弹枪", 
+  "dfp.gun.aa12_akimbo.desc": "§e我方无畏战士已部署。",
+  "dfp.gun.vector45_akimbo.name":"§6Kriss | Vector (搭载\"沙影行者\"转换套件)",
+  "dfp.gun.vector45_akimbo.desc":"§c>ARIP×DFP< §f针对原产自Kriss的冲锋枪进行特别改造.\n\"风尘猎猎沙满天, 蛰伏其间, 黑影沉沉笼星园, 潜藏诸暗\"\n在双持的基础上装配了一体式消音器, 且具有四连射击能力. \n"
+ }

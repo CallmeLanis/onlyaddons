@@ -1,0 +1,9 @@
+{
+  "slot": "jak:attachment/slot/crown_breaker_choke",
+  "model": "jak:attachment/crown_breaker_choke_geo",
+  "texture": "jak:attachment/uv/crown_breaker_choke",
+  "sounds": {
+    "install": "tacz:attachments/muzzle_general",
+    "uninstall": "tacz:attachments/muzzle_general"
+  }
+}

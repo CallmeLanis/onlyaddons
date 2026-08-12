@@ -1,0 +1,8 @@
+{
+  "hidden":true,
+  "name": "jak.attachment.strategic_airstrike.name",
+  "tooltip": "jak.attachment.strategic_airstrike.desc",
+  "display": "jak:strategic_airstrike_display",
+  "data": "jak:strategic_airstrike_data",
+  "type": "scope"
+}

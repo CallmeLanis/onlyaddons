@@ -1,0 +1,9 @@
+{
+  "slot": "jak:attachment/slot/muzzle_oil_filter",
+  "model": "jak:attachment/muzzle_oil_filter_geo",
+  "texture": "jak:attachment/uv/muzzle_oil_filter",
+  "sounds": {
+    "install": "tacz:attachments/muzzle_general",
+    "uninstall": "tacz:attachments/muzzle_general"
+  }
+}

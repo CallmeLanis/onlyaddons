@@ -1,0 +1,28 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:storage_blocks/iron"
+      },
+      "count": 3
+    },
+    {
+      "item": {
+        "tag": "forge:gems/lapis"
+      },
+      "count": 18
+    },
+    {
+      "item": {
+        "item": "minecraft:blaze_powder"
+      },
+      "count": 27
+    }
+  ],
+  "result": {
+    "type": "ammo",
+    "id": "jak:hvp_slug",
+    "count": 16
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

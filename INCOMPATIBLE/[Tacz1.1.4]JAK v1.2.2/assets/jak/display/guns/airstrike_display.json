@@ -1,0 +1,45 @@
+{
+  "model": "jak:gun/airstrike_geo",
+  "texture": "jak:gun/uv/airstrike",
+  "hud": "jak:gun/hud/airstrike",
+  "slot": "jak:gun/slot/airstrike",
+  "animation": "jak:airstrike",
+  "use_default_animation": "rifle",
+  "lod": {
+    "model": "jak:gun/lod/airstrike",
+    "texture": "jak:gun/lod/airstrike"
+  },
+  "transform": {
+    "scale": {
+      "thirdperson": [1, 1, 1],
+      "ground": [1, 1, 1],
+      "fixed": [1.5, 1.5, 1.5]
+    }
+  },
+  "sounds": {
+    "reload_empty": "jak:airstrike/reload_empty",
+    "reload_tactical": "jak:airstrike/reload_tactical",
+    "inspect": "jak:airstrike/inspect",
+    "inspect_empty": "jak:airstrike/inspect_empty",
+    "draw": "jak:airstrike/draw",
+    "put_away": "tacz:rpg7/rpg7_put_away",
+    "shoot": "jak:airstrike/airstrike_shoot",
+    "shoot_3p": "jak:airstrike/airstrike_shoot",
+    "melee_push": "tacz:melee_stock/melee_stock_02",
+    "melee_stock": "tacz:melee_stock/melee_stock_03",
+    "flesh_hit": "jak:kill/flesh_hit",
+    "kill": "jak:kill/kill"
+  },
+  "offhand_show": {
+    "pos": [0, 20, 5],
+    "rotate": [-20, 0, 30],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [-4, 24, 4],
+      "rotate": [-90, -5, -90],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

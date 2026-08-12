@@ -1,0 +1,28 @@
+{
+  "weight": 5,
+  "extended_mag_level": 3,
+  "aim_inaccuracy": {
+		"addend": -0.35
+	},
+  "inaccuracy": {
+		"addend": -5
+	},
+  "recoil": {
+		"pitch": {
+			"percent": -0.75
+		},
+		"yaw": {
+			"percent": -0.75
+		}
+	
+	},
+	"armor_ignore": {
+		"addend": 5
+	},
+	"damage": {
+		"addend": 4
+	},
+	"rpm":{
+		"addend":1100
+}
+}

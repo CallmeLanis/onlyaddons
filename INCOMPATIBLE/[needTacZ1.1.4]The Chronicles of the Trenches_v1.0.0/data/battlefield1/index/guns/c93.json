@@ -1,0 +1,9 @@
+{
+    "name": "battlefield1.gun.c93.name",
+    "display": "battlefield1:c93_display",
+    "data": "battlefield1:c93_data",
+    "tooltip": "battlefield1.gun.c93.desc",
+    "type": "pistol",
+    "item_type": "modern_kinetic",
+    "sort": 1
+}

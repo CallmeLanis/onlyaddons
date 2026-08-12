@@ -1,0 +1,7 @@
+{
+    "name":"jak.attachment.crown_breaker_choke.name",
+    "tooltip": "jak.attachment.crown_breaker_choke.desc",
+    "display": "jak:crown_breaker_choke_display",
+    "data": "jak:crown_breaker_choke_data",
+    "type": "muzzle"
+  }

@@ -1,0 +1,8 @@
+{
+  "name": "dfp.gun.aa12_akimbo.name",
+  "display": "dfp:aa12_akimbo_display",
+  "data": "dfp:aa12_akimbo_data",
+  "tooltip": "dfp.gun.aa12_akimbo.desc",
+  "type": "shotgun",
+  "sort": 4
+}

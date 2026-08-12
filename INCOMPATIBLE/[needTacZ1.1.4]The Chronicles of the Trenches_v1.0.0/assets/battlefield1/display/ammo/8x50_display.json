@@ -1,0 +1,7 @@
+{
+  "slot": "battlefield1:ammo/slot/8x50",
+  "shell": {
+    "model": "battlefield1:shell/8x50_shell",
+    "texture": "battlefield1:shell/8x50_shell"
+ }
+}

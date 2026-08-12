@@ -1,0 +1,50 @@
+{
+  "model": "battlefield1:gun/ljjbq_geo",
+  "texture": "battlefield1:gun/uv/ljjbq",
+  "lod": {
+    "model": "battlefield1:gun/lod/ljjbq",
+    "texture": "battlefield1:gun/lod/ljjbq"
+  },
+  "hud": "battlefield1:gun/hud/ljjbq",
+  "slot": "battlefield1:gun/slot/ljjbq",
+  "animation": "battlefield1:ljjbq",
+  "use_default_animation": "rifle",
+  "third_person_animation": "default",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "tacz:flash/common_muzzle_flash",
+    "scale": 1.0
+  },
+  "iron_zoom": 1.2,
+  "shell": {
+    "initial_velocity": [5, 2, 1],
+    "random_velocity": [1, 1, 0.25],
+    "acceleration": [0.0, -10, 0.0],
+    "angular_velocity": [360, -1200, 90],
+    "living_time": 1.0
+  },
+  "sounds": {
+    "kill": "battlefield1:kill"
+  },
+  "offhand_show": {
+    "pos": [0, 19, 4],
+    "rotate": [0, 0, 60],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [0, 19, 3],
+      "rotate": [-180, 0, 120],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  },
+  "state_machine": "battlefield1:ljj_state_machine",
+  "state_machine_param": {
+  }
+}

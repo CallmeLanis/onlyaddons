@@ -1,0 +1,60 @@
+{
+  "model": "jak:gun/bal_27_geo",
+  "texture": "jak:gun/uv/bal_27",
+  "lod": {
+    "model": "jak:gun/bal_27_geo",
+    "texture": "jak:gun/uv/bal_27"
+  },
+  "hud": "jak:gun/hud/bal_27",
+  "slot": "jak:gun/slot/bal_27",
+  "animation": "jak:bal",
+  "use_default_animation": "rifle",
+  "third_person_animation": "default",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "tacz:flash/common_muzzle_flash",
+    "scale": 0.75
+  },
+  "shell": {
+    "initial_velocity": [5, 2, 1],
+    "random_velocity": [1, 1, 0.25],
+    "acceleration": [0.0, -10, 0.0],
+    "angular_velocity": [360, -1200, 90],
+    "living_time": 1.0
+  },
+  "sounds": {
+    "shoot": "jak:bal/bal_27_shoot",
+    "shoot_3p": "jak:bal/bal_27_shoot_3p",
+    "reload_empty": "jak:bal/bal_27_empty_reload",
+    "reload_tactical": "jak:bal/bal_27_reload_tactical",
+    "inspect": "jak:bal/bal_27_inspect",
+    "inspect_empty": "jak:bal/bal_27_inspect",
+    "draw": "jak:bal/bal_27_draw",
+    "put_away": "jak:bal/bal_27_put_away",
+    "silence": "jak:bal/bal_27_silence",
+    "silence_3p": "jak:bal/bal_27_silence_3p",
+    "melee_push": "jak:melee_stock/melee_stock_01",
+    "melee_stock": "jak:melee_stock/melee_stock_02",
+    "flesh_hit": "jak:kill/hit",
+    "head_hit": "jak:kill/headshot",
+    "kill": "jak:kill/kill"
+  },
+  "offhand_show": {
+    "pos": [1, 19, 4],
+    "rotate": [0, 0, 50],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [-1, 19, 3],
+      "rotate": [-180, 0, 130],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

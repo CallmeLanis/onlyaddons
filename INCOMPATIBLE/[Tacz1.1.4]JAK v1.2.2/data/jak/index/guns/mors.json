@@ -1,0 +1,7 @@
+{
+  "name": "jak.gun.mors.name",
+  "display": "jak:mors_display",
+  "data": "jak:mors_data",
+  "tooltip": "jak.gun.mors.desc",
+  "type": "sniper"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "dfp.gun.vector45_akimbo.name",
+  "display": "dfp:vector45_akimbo_display",
+  "data": "dfp:vector45_akimbo_data",
+  "tooltip": "dfp.gun.vector45_akimbo.desc",
+  "type": "smg",
+  "sort": 4
+}

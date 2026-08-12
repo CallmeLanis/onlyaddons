@@ -1,0 +1,33 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 16
+    },
+    {
+      "item": {
+        "tag": "forge:leather"
+      },
+      "count": 6
+    },
+    {
+      "item": {
+        "tag": "minecraft:dampens_vibrations"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "tag": "forge:nuggets/iron"
+      },
+      "count": 9
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "jak:crown_breaker_choke"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

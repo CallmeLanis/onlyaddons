@@ -1,0 +1,19 @@
+{
+  "slot": "battlefield1:attachment/slot/scope_mzj",
+  "model": "battlefield1:attachment/scope_mzj_geo",
+  "texture": "battlefield1:attachment/uv/scope_mzj",
+  "lod": {
+    "model": "battlefield1:attachment/lod/scope_mzj_geo",
+    "texture": "battlefield1:attachment/lod/scope_mzj"
+  },
+  "zoom": [
+    2.5,
+    4.0
+  ],
+  "scope": true,
+  "fov": 20.0,
+  "sounds": {
+    "install": "tacz:attachments/scope_general_a",
+    "uninstall": "tacz:attachments/scope_general_a"
+  }
+}

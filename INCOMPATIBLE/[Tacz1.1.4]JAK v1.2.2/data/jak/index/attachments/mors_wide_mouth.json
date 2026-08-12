@@ -1,0 +1,7 @@
+{
+    "name":"jak.attachment.mors_wide_mouth.name",
+    "tooltip": "jak.attachment.mors_wide_mouth.desc",
+    "display": "jak:mors_wide_mouth_display",
+    "data": "jak:mors_wide_mouth_data",
+    "type": "muzzle"
+  }

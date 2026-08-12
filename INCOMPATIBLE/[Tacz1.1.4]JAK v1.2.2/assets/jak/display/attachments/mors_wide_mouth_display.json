@@ -1,0 +1,9 @@
+{
+  "slot": "jak:attachment/slot/mors_wide_mouth",
+  "model": "jak:attachment/mors_wide_mouth_geo",
+  "texture": "jak:attachment/uv/mors_wide_mouth",
+  "sounds": {
+    "install": "tacz:attachments/muzzle_general",
+    "uninstall": "tacz:attachments/muzzle_general"
+  }
+}

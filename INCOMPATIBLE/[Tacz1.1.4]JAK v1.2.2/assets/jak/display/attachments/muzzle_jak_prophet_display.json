@@ -1,0 +1,9 @@
+{
+  "slot": "jak:attachment/slot/jak_prophet",
+  "model": "jak:attachment/jak_prophet_geo",
+  "texture": "jak:attachment/uv/jak_prophet",
+  "sounds": {
+    "install": "tacz:attachments/muzzle_general",
+    "uninstall": "tacz:attachments/muzzle_general"
+  }
+}

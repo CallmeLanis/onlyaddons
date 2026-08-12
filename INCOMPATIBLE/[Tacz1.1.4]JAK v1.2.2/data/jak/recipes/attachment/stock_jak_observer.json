@@ -1,0 +1,39 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "minecraft:coal"
+      },
+      "count": 2
+    },
+    {
+      "item": {
+        "tag": "forge:nuggets/iron"
+      },
+      "count": 6
+    },
+    {
+      "item": {
+        "tag": "forge:dyes/white"
+      },
+      "count": 5
+    },
+    {
+      "item": {
+        "tag": "forge:gems/quartz"
+      },
+      "count": 3
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 14
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "jak:stock_jak_observer"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

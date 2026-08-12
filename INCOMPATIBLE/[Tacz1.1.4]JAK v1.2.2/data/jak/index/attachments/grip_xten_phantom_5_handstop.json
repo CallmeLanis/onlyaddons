@@ -1,0 +1,7 @@
+{
+  "name": "jak.attachment.grip_xten_phantom_5_handstop.name",
+  "tooltip": "jak.attachment.grip_xten_phantom_5_handstop.desc",
+  "display": "jak:grip_xten_phantom_5_handstop_display",
+  "data": "jak:grip_xten_phantom_5_handstop_data",
+  "type": "grip"
+}

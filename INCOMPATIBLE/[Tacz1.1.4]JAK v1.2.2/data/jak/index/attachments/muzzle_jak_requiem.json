@@ -1,0 +1,7 @@
+{
+  "name": "jak.attachment.muzzle_jak_requiem.name",
+  "tooltip": "jak.attachment.muzzle_jak_requiem.desc",
+  "display": "jak:muzzle_jak_requiem_display",
+  "data": "jak:muzzle_jak_requiem_data",
+  "type": "muzzle"
+}

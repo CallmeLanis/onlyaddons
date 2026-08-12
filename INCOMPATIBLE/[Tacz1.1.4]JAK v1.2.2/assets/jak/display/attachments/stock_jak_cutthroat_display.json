@@ -1,0 +1,10 @@
+{
+  "slot": "jak:attachment/slot/jak_cutthroat",
+  "model": "jak:attachment/jak_cutthroat_geo",
+  "texture": "jak:attachment/uv/jak_cutthroat",
+  "adapter": "ar_stock_adapter",
+  "sounds": {
+    "install": "tacz:attachments/attachment_general_a",
+    "uninstall": "tacz:attachments/attachment_general_uninstall"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jak.attachment.grip_rk1_b25u.name",
+  "tooltip": "jak.attachment.grip_rk1_b25u.desc",
+  "display": "jak:grip_rk1_b25u_display",
+  "data": "jak:grip_rk1_b25u_data",
+  "type": "grip"
+}

@@ -1,0 +1,9 @@
+{
+  "slot": "jak:attachment/slot/grip_jak_slash",
+  "model": "jak:attachment/grip_jak_slash_geo",
+  "texture": "jak:attachment/uv/grip_jak_slash",
+  "sounds": {
+    "install": "tacz:attachments/muzzle_general",
+    "uninstall": "tacz:attachments/muzzle_general"
+  }
+}

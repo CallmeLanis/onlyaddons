@@ -1,0 +1,13 @@
+{
+    "sprint_time":{
+       "percent": -0.07
+   },
+  // 对瞄准时间的影响，加数，单位为秒，可为负数
+  "ads_addend":-0.9,
+  "inaccuracy": {
+    "addend": -0.7  
+},
+"aim_inaccuracy": {
+    "addend": 1.2 
+}
+}

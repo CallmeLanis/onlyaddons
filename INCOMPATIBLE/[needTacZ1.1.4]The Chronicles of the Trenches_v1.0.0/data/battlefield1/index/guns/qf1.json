@@ -1,0 +1,7 @@
+{
+    "name": "battlefield1.gun.qf1.name",
+    "display": "battlefield1:qf1_display",
+    "data": "battlefield1:qf1_data",
+    "tooltip": "battlefield1.gun.qf1.desc",
+    "type": "rpg"
+}

@@ -1,0 +1,12 @@
+{
+  "pack.dfp.name": "Double Firepower Pack",
+  "pack.dfp.desc": "Dear my friend, you have two hands that can be used to hold weapons, don't you?",
+  "dfp.gun.akimbo_deagle_gold.name":"Golden Akimbo Deagle",
+  "dfp.gun.akimbo_deagle_gold.desc": "The optimal solution for mobile firepower",
+  "dfp.gun.shield_vantvm_withgun.name":"§eFORT | Vant-VM with OTS-33",
+  "dfp.gun.shield_vantvm_withgun.desc":"Cover, Strike",
+  "dfp.gun.aa12_akimbo.name": "AA12 'Atchisson' Akimbo Shotgun", 
+  "dfp.gun.aa12_akimbo.desc": "Our Juggernaut has been deployed.",
+  "dfp.gun.vector45_akimbo.name":"§6KrissVector | \"Desert Shadow Walker\"Conversion Kits",
+  "dfp.gun.vector45_akimbo.desc":"§cARIPxDFP§f | Hiding in the sand, lurking in the shadows.\nSpecially modified Kriss Vector. \n With integrated silencers and deadly quadruple shooting mode."
+ }

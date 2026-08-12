@@ -1,0 +1,33 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:gems/diamond"
+      },
+      "count": 3
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/gold"
+      },
+      "count": 14
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 120
+    },
+    {
+      "item": {
+        "tag": "forge:rods/blaze"
+      },
+      "count": 3
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "pla:qjy88"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

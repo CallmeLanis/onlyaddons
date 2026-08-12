@@ -1,0 +1,19 @@
+{
+	"ads": {
+		"percent": 0.06
+	},
+                	"recoil": {
+		"pitch": {
+			"percent": -1
+		},
+		"yaw": {
+			"percent": -0.86
+		}
+                },
+                "ammo_speed": {
+		"percent": -0.15
+	},
+               "rpm": {
+		"percent": -0.04
+	}
+}

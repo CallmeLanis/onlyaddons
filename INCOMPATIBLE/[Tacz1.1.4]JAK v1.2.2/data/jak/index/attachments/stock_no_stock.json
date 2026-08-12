@@ -1,0 +1,7 @@
+{
+  "name": "jak.attachment.stock_no_stock.name",
+  "tooltip": "jak.attachment.stock_no_stock.desc",
+  "display": "jak:stock_no_stock_display",
+  "data": "jak:stock_no_stock_data",
+  "type": "stock"
+}

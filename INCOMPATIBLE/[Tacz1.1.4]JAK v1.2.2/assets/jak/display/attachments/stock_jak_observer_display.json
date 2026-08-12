@@ -1,0 +1,9 @@
+{
+  "slot": "jak:attachment/slot/jak_observer",
+  "model": "jak:attachment/jak_observer_geo",
+  "texture": "jak:attachment/uv/jak_observer",
+  "sounds": {
+    "install": "tacz:attachments/attachment_general_a",
+    "uninstall": "tacz:attachments/attachment_general_uninstall"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jak.attachment.recoil_springs.name",
+  "tooltip": "jak.attachment.recoil_springs.desc",
+  "display": "jak:recoil_springs_display",
+  "data": "jak:recoil_springs_data",
+  "type": "extended_mag"
+}

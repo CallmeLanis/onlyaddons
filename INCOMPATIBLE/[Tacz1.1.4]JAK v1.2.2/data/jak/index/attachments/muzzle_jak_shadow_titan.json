@@ -1,0 +1,7 @@
+{
+  "name": "jak.attachment.muzzle_jak_shadow_titan.name",
+  "tooltip": "jak.attachment.muzzle_jak_shadow_titan.desc",
+  "display": "jak:muzzle_jak_shadow_titan_display",
+  "data": "jak:muzzle_jak_shadow_titan_data",
+  "type": "muzzle"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jak.attachment.invisible_blade.name",
+  "tooltip": "jak.attachment.invisible_blade.desc",
+  "display": "jak:invisible_blade_display",
+  "data": "jak:invisible_blade_data",
+  "type": "muzzle"
+}

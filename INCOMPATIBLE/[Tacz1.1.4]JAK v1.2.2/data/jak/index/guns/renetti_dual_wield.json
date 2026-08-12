@@ -1,0 +1,7 @@
+{
+  "name": "jak.gun.renetti.name",
+  "display": "jak:renetti_dual_wield_display",
+  "data": "jak:renetti_dual_wield_data",
+  "tooltip": "jak.gun.renetti.desc",
+  "type": "pistol"
+}

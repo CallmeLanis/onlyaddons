@@ -1,0 +1,9 @@
+{
+    "name": "battlefield1.gun.825.name",
+    "display": "battlefield1:825_display",
+    "data": "battlefield1:825_data",
+    "tooltip": "battlefield1.gun.825.desc",
+    "type": "rifle",
+    "item_type": "modern_kinetic",
+    "sort": 1
+}

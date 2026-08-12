@@ -1,0 +1,9 @@
+{
+  "slot": "jak:attachment/slot/grip_xten_phantom_5_handstop",
+  "model": "jak:attachment/grip_xten_phantom_5_handstop_geo",
+  "texture": "jak:attachment/uv/grip_xten_phantom_5_handstop",
+  "sounds": {
+    "install": "tacz:attachments/grip_general",
+    "uninstall": "tacz:attachments/grip_general"
+  }
+}

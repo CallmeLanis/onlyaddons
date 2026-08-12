@@ -1,0 +1,9 @@
+{
+  "slot": "jak:attachment/slot/quartermaster",
+  "model": "jak:attachment/muzzle_quartermaster_geo",
+  "texture": "jak:attachment/uv/quartermaster",
+  "sounds": {
+    "install": "tacz:attachments/muzzle_general",
+    "uninstall": "tacz:attachments/muzzle_general"
+  }
+}

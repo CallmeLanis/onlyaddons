@@ -1,0 +1,7 @@
+{
+  "name": "jak.attachment.stock_jak_observer.name",
+  "tooltip": "jak.attachment.stock_jak_observer.desc",
+  "display": "jak:stock_jak_observer_display",
+  "data": "jak:stock_jak_observer_data",
+  "type": "stock"
+}

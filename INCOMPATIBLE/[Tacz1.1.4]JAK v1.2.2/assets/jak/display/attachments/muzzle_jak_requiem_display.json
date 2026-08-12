@@ -1,0 +1,9 @@
+{
+  "slot": "jak:attachment/slot/jak_requiem",
+  "model": "jak:attachment/muzzle_jak_requiem_geo",
+  "texture": "jak:attachment/uv/muzzle_jak_requiem",
+  "sounds": {
+    "install": "tacz:attachments/muzzle_general",
+    "uninstall": "tacz:attachments/muzzle_general"
+  }
+}

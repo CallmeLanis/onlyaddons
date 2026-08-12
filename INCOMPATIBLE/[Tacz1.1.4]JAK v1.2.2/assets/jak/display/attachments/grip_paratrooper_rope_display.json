@@ -1,0 +1,9 @@
+{
+  "slot": "jak:attachment/slot/grip_paratrooper_rope",
+  "model": "jak:attachment/grip_paratrooper_rope_geo",
+  "texture": "jak:attachment/uv/grip_paratrooper_rope",
+  "sounds": {
+    "install": "tacz:attachments/muzzle_general",
+    "uninstall": "tacz:attachments/muzzle_general"
+  }
+}

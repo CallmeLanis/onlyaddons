@@ -1,0 +1,7 @@
+{
+  "name": "jak.gun.airstrike.name",
+  "display": "jak:airstrike_display",
+  "data": "jak:airstrike_data",
+  "tooltip": "jak.gun.airstrike.desc",
+  "type": "rpg"
+}

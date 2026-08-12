@@ -1,0 +1,27 @@
+{
+	"weight":1,
+	"ads": {
+		"percent": 0.15
+	},
+                	"recoil": {
+		"pitch": {
+			"percent": -0.25
+		},
+		"yaw": {
+			"percent": -0.4
+		}
+                },
+                "ammo_speed": {
+		"percent": 0.35
+	},
+	"aim_inaccuracy": {
+		"percent": -0.33
+	},
+	"silence": {
+		"distance_addend":0,
+		"use_silence_sound":false
+	},
+	"effective_range":{
+		"percent":1
+	}
+}

@@ -1,0 +1,9 @@
+{
+  "slot": "jak:attachment/slot/jak_scimitar",
+  "model": "jak:attachment/jak_scimitar_geo",
+  "texture": "jak:attachment/uv/jak_scimitar",
+  "sounds": {
+    "install": "tacz:attachments/muzzle_general",
+    "uninstall": "tacz:attachments/muzzle_general"
+  }
+}

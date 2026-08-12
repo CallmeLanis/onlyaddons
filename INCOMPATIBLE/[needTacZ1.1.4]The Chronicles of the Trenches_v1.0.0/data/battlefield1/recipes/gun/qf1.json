@@ -1,0 +1,39 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "minecraft:logs"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/copper"
+      },
+      "count": 40
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/gold"
+      },
+      "count": 15
+    },
+    {
+      "item": {
+        "tag": "forge:gems/lapis"
+      },
+      "count": 20
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 100
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "battlefield1:qf1"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jak.attachment.stock_jak_cutthroat.name",
+  "tooltip": "jak.attachment.stock_jak_cutthroat.desc",
+  "display": "jak:stock_jak_cutthroat_display",
+  "data": "jak:stock_jak_cutthroat_data",
+  "type": "stock"
+}

@@ -1,0 +1,39 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "minecraft:arrows"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 130
+    },
+    {
+      "item": {
+        "tag": "forge:gems/emerald"
+      },
+      "count": 50
+    },
+    {
+      "item": {
+        "tag": "forge:glass_panes"
+      },
+      "count": 2
+    },
+    {
+      "item": {
+        "tag": "forge:storage_blocks/redstone"
+      },
+      "count": 10
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "jak:airstrike"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}
